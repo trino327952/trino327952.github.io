@@ -1,0 +1,73 @@
+
+
+.p{
+	background-color: #0C8A8F;
+}
+.car{
+
+	margin-top: 35px;
+	margin-right: 200px;
+
+}
+.ec{
+background-color: red;
+		margin-top: 35px;
+	margin-left: : 200px;
+	
+}
+.foto1{
+    margin-top: -200px;
+	margin-left: 300px;
+	height: 200px;
+	width: 200px;
+}
+.foto2{
+    margin-top: -200px;
+	margin-left: 600px;
+	height: 200px;
+	width: 200px;
+}
+.foto3{
+    margin-top: -200px;
+	margin-left: 900px;
+	height: 200px;
+	width: 200px;
+}
+.car2{
+
+	margin-top: 35px;
+	margin-left: : 200px;
+
+}
+.ee{
+	margin-top: 35px;
+}
+.mm{
+	height: 220px;
+	margin-top: 15px;
+	background: white;
+	border-radius: auto 20px;
+	border-top-right-radius: 25px;
+}
+.bt{
+	margin-top : 50px;
+}
+.contacto{
+
+border-style: solid;
+	margin-top:25px;
+}
+.contac{
+	margin-top :10px;
+	background-color: white;
+}
+#end{
+	border-color: orange;
+	border-top-right-radius: 25px;
+	border-top-left-radius: 5px;
+  margin-top: -350px;
+  margin-left: 400px;
+	
+  width: 700px;
+	background-color:#A5B9BA;
+}
